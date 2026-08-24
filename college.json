@@ -1,0 +1,10 @@
+{
+  "name": "Otero College",
+  "slug": "otero",
+  "domain": "otero.edu",
+  "baseUrl": "https://otero.edu",
+  "toolingRepo": "audit-otero.edu",
+  "resultsRepo": "otero-audit",
+  "siteName": "Otero College",
+  "canonicalSiteUrl": "https://thirstyhead.com/otero-audit/"
+}
